@@ -36,6 +36,7 @@ npm install gh-pages --save-dev
 ```
 
 > build → genera la carpeta dist/
+
 > deploy → sube dist/ a la rama gh-pages
 
 5. Configuración en GitHub:
